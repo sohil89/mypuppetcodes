@@ -1,0 +1,5 @@
+package { "ntp" :
+
+ensure => present,
+
+}

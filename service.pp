@@ -1,0 +1,5 @@
+service { "ntp" :
+
+ensure => stopped,
+
+}
